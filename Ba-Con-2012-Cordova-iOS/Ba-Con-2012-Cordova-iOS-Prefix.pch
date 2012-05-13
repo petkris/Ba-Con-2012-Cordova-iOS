@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'Ba-Con-2012-Cordova-iOS' target in the 'Ba-Con-2012-Cordova-iOS' project
+//
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+#endif
