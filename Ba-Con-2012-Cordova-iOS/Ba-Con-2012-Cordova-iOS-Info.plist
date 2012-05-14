@@ -13,7 +13,20 @@
 		<key>CFBundlePrimaryIcon</key>
 		<dict>
 			<key>CFBundleIconFiles</key>
-			<array/>
+			<array>
+				<string>Icon~iphone.png</string>
+				<string>Icon@2x~iphone.png</string>
+				<string>Icon~ipad.png</string>
+				<string>Icon@2x~ipad.png</string>
+				<string>Default~iphone.png</string>
+				<string>Default@2x~iphone.png</string>
+				<string>Default-Portrait~ipad.png</string>
+				<string>Default-Portrait@2x~ipad.png</string>
+				<string>Default-Landscape~ipad.png</string>
+				<string>Default-Landscape@2x~ipad.png</string>
+			</array>
+			<key>UIPrerenderedIcon</key>
+			<false/>
 		</dict>
 	</dict>
 	<key>CFBundleIdentifier</key>
