@@ -21,7 +21,15 @@
 	<key>OpenAllWhitelistURLsInWebView</key>
 	<false/>
 	<key>ExternalHosts</key>
-	<array/>
+	<array>
+		<string>csi.gstatic.com</string>
+		<string>mt1.googleapis.com</string>
+		<string>mt0.googleapis.com</string>
+		<string>maps.googleapis.com</string>
+		<string>maps.gstatic.com</string>
+		<string>maps.google.com</string>
+		<string>www.ba-con.dk</string>
+	</array>
 	<key>Plugins</key>
 	<dict>
 		<key>Compass</key>
