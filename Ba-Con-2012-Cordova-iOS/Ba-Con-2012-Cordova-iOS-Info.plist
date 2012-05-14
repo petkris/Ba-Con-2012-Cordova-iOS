@@ -15,19 +15,7 @@
 		<key>CFBundlePrimaryIcon</key>
 		<dict>
 			<key>CFBundleIconFiles</key>
-			<array>
-				<string>Icon-57x57.png</string>
-				<string>Icon-114x114.png</string>
-				<string>Icon-72x72.png</string>
-				<string>icon-72@2x.png</string>
-				<string>Default.png</string>
-				<string>Default@2x.png</string>
-				<string>Icon-144x144.png</string>
-				<string>Default-Portrait~ipad.png</string>
-				<string>Default-Landscape~ipad.png</string>
-				<string>Default-Portrait@2x~ipad.png</string>
-				<string>Default-Landscape@2x~ipad.png</string>
-			</array>
+			<array/>
 			<key>UIPrerenderedIcon</key>
 			<false/>
 		</dict>
